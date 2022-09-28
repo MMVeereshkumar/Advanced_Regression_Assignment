@@ -57,7 +57,7 @@ Similarly we have lot more variables, which can be seen from Feature Importance 
 
 
 ## Contact
-Created by https://www.linkedin.com/in/mmveereshkumar - feel free to contact me!
+Created by [M M Veereshkumar](https://www.linkedin.com/in/mmveereshkumar) - feel free to contact me!
 
 
 <!-- Optional -->
