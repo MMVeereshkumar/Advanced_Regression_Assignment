@@ -44,6 +44,11 @@ Lasso Regression helps in feature elimination, with Lass we are getting pritty g
   6. Negative impacting features : Basement condition, Bedrooms, Lot configuration with frontage with 2 side etc
 
 Similarly we have lot more variables, which can be seen from Feature Importance chart
+## Evaluation Metrics - Lasso Regression
+  ## Trining:
+    MAE : 0.1992 MSE : 0.0821 RMSE : 0.2861 R2_Score : 91.76%
+  ## Testing:
+    MAE : 0.2168 MSE : 0.099 RMSE : 0.3136 R2_Score : 90.03%
 
 <!-- You don't have to answer all the questions - just the ones relevant to your project. -->
 
